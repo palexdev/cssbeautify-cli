@@ -1,5 +1,5 @@
 {
-  "name": "cssbeautify-cli",
+  "name": "@palexdev/cssbeautify-cli",
   "description": "CLI for cssbeautify",
   "version": "0.5.4",
   "author": "Igor Shevchenko <cyberskunk@yandex.ru>",
