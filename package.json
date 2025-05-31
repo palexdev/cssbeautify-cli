@@ -1,7 +1,7 @@
 {
   "name": "@palexdev/cssbeautify-cli",
   "description": "CLI for cssbeautify",
-  "version": "0.5.4",
+  "version": "0.6.0",
   "author": "Igor Shevchenko <cyberskunk@yandex.ru>",
   "repository": {
     "type": "git",

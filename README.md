@@ -1,6 +1,4 @@
-[![NPM version](https://badge.fury.io/js/cssbeautify-cli.svg)](http://badge.fury.io/js/cssbeautify-cli)
-![David](https://img.shields.io/david/saunalol/cssbeautify-cli.svg)
-[![Build Status](https://travis-ci.org/Saunalol/cssbeautify-cli.svg?branch=master)](https://travis-ci.org/Saunalol/cssbeautify-cli)
+[![npm version](https://badge.fury.io/js/@palexdev%2Fcssbeautify-cli.svg)](https://badge.fury.io/js/@palexdev%2Fcssbeautify-cli)
 # CSS Beautify CLI #
 
 CLI for [cssbeautify](https://github.com/senchalabs/cssbeautify)
